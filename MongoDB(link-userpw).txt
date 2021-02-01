@@ -1,0 +1,7 @@
+sinamongodb
+sinabeiki123
+
+mongodb+srv://sinamongodb:<password>@cluster0.nsslo.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+mongodb+srv://sinamongodb:sinabeiki123@cluster0.nsslo.mongodb.net/local_library?retryWrites=true&w=majority
+
